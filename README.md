@@ -35,8 +35,6 @@ npm start
 
 Here's how to use the project:
 
-![Alt text for image](https://via.placeholder.com/150)
-
 You can also reference specific [documentation](#overview).
 
 ## Features
@@ -87,11 +85,6 @@ sequenceDiagram
     B->>A: Return Data
 ```
 
-## Mathematical Notation
-
-When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
-$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-
 ## Definitions
 
 Term 1
@@ -102,32 +95,13 @@ Term 1
 - [x] Completed task
 - [ ] Incomplete task
 
-## Footnotes
-
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
-
 ## Horizontal Rule
 
 ---
 
-## Custom HTML
-
-<div align="center">
-  <h3>Custom HTML Content</h3>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-</div>
-
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-## Contact
-
-- Email: [example@example.com](mailto:example@example.com)
-- Twitter: [@username](https://twitter.com/username)
-- Website: [website.com](https://website.com)
 
 ---
 
