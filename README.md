@@ -20,12 +20,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. *Phasellus* nec **sempe
 ### Prerequisites
 * Item 1
 * Item 2
-* Item 3
 
 ### Step-by-Step Guide
 1. First step with `inline code`
 2. Second step
-3. Third step
 
 ```bash
 # Code block example
@@ -56,8 +54,6 @@ Nested lists:
   - Sub item 1.1
   - Sub item 1.2
     - Sub-sub item 1.2.1
-- Main item 2
-  - Sub item 2.1
 
 ## Contributing
 
@@ -101,14 +97,10 @@ $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
 Term 1
 : Definition of term 1
 
-Term 2
-: Definition of term 2
-
 ## Task Lists
 
 - [x] Completed task
 - [ ] Incomplete task
-- [ ] Another incomplete task
 
 ## Footnotes
 
